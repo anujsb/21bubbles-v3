@@ -10,7 +10,7 @@ import { AddOnServices } from "@/components/AddOnServices";
 const websitePlans = [
   {
     title: "Static Single Page",
-    price: 10000,
+    price: 15500,
     features: [
       "Hero section",
       "About Us section",
@@ -22,7 +22,7 @@ const websitePlans = [
   },
   {
     title: "Static Multi-Page",
-    price: 20000,
+    price: 25999,
     features: [
       "4-5 distinct pages",
       "Customized routes",
@@ -33,7 +33,7 @@ const websitePlans = [
   },
   {
     title: "3D Animated Single Page",
-    price: 30000,
+    price: 35500,
     features: [
       "Full-page 3D effects",
       "Interactive designs",
@@ -43,7 +43,7 @@ const websitePlans = [
   },
   {
     title: "3D Animated Multi-Page",
-    price: 35000,
+    price: 42500,
     features: [
       "4-5 fully animated pages",
       "Smooth interactions",
@@ -56,7 +56,7 @@ const websitePlans = [
 const softwarePlans = [
   {
     title: "Basic Software Application",
-    price: 45000,
+    price: 55000,
     features: [
       "Up to 2 user roles",
       "Core functionality",
